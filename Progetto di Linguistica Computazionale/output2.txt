@@ -1,0 +1,539 @@
+File di testo: DiscorsoBiden.txt
+
+Le 10 Part-of-Speech più frequenti:
+PoS: . - Frequenza: 591
+PoS: , - Frequenza: 557
+PoS: TO - Frequenza: 269
+PoS: DT - Frequenza: 263
+PoS: CC - Frequenza: 171
+PoS: PRP - Frequenza: 153
+PoS: DT - Frequenza: 151
+PoS: VBP - Frequenza: 149
+PoS: PRP - Frequenza: 131
+PoS: IN - Frequenza: 127
+
+I 20 sostantivi più frequenti:
+Sostantivo: ’ Frequenza: 57
+Sostantivo: Trump Frequenza: 48
+Sostantivo: Donald Frequenza: 32
+Sostantivo: t Frequenza: 30
+Sostantivo: country Frequenza: 27
+Sostantivo: America Frequenza: 26
+Sostantivo: people Frequenza: 25
+Sostantivo: s Frequenza: 22
+Sostantivo: home Frequenza: 19
+Sostantivo: time Frequenza: 19
+Sostantivo: families Frequenza: 17
+Sostantivo: year Frequenza: 15
+Sostantivo: folks Frequenza: 15
+Sostantivo: Thank Frequenza: 15
+Sostantivo: Americans Frequenza: 13
+Sostantivo: class Frequenza: 13
+Sostantivo: way Frequenza: 12
+Sostantivo: “ Frequenza: 11
+Sostantivo: jobs Frequenza: 11
+Sostantivo: job Frequenza: 11
+
+I 20 verbi più frequenti:
+Verbo: ’ Frequenza: 149
+Verbo: ’ Frequenza: 78
+Verbo: going Frequenza: 63
+Verbo: is Frequenza: 58
+Verbo: have Frequenza: 41
+Verbo: said Frequenza: 40
+Verbo: are Frequenza: 37
+Verbo: be Frequenza: 31
+Verbo: s Frequenza: 25
+Verbo: do Frequenza: 25
+Verbo: know Frequenza: 21
+Verbo: was Frequenza: 19
+Verbo: been Frequenza: 19
+Verbo: got Frequenza: 18
+Verbo: has Frequenza: 18
+Verbo: re Frequenza: 17
+Verbo: s Frequenza: 17
+Verbo: vote Frequenza: 15
+Verbo: want Frequenza: 15
+Verbo: get Frequenza: 14
+
+I 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti:
+Bigramma: ’ s con frequenza: 24
+Bigramma: ’ s con frequenza: 6
+Bigramma: Trump has con frequenza: 6
+Bigramma: people are con frequenza: 5
+Bigramma: ’ s con frequenza: 5
+Bigramma: Trump is con frequenza: 4
+Bigramma: fact is con frequenza: 4
+Bigramma: t know con frequenza: 3
+Bigramma: people don con frequenza: 3
+Bigramma: Trump thinks con frequenza: 3
+Bigramma: t have con frequenza: 3
+Bigramma: Americans are con frequenza: 2
+Bigramma: t want con frequenza: 2
+Bigramma: t say con frequenza: 2
+Bigramma: Americans have con frequenza: 2
+Bigramma: disease was con frequenza: 2
+Bigramma: Trump inherited con frequenza: 2
+Bigramma: Trump pays con frequenza: 2
+Bigramma: ’ s con frequenza: 2
+Bigramma: Trump got con frequenza: 2
+
+I 20 bigrammi composti da un Aggettivo seguito da un sostantivo più frequenti:
+Bigramma: ’ t con frequenza: 20
+Bigramma: middle class con frequenza: 10
+Bigramma: American people con frequenza: 5
+Bigramma: long time con frequenza: 4
+Bigramma: last week con frequenza: 4
+Bigramma: ’ t con frequenza: 4
+Bigramma: fair share con frequenza: 4
+Bigramma: pre-existing conditions con frequenza: 4
+Bigramma: s time con frequenza: 4
+Bigramma: final days con frequenza: 3
+Bigramma: few months con frequenza: 3
+Bigramma: small businesses con frequenza: 3
+Bigramma: more taxes con frequenza: 3
+Bigramma: first time con frequenza: 3
+Bigramma: ’ s con frequenza: 3
+Bigramma: many people con frequenza: 3
+Bigramma: social security con frequenza: 3
+Bigramma: other Americans con frequenza: 2
+Bigramma: more money con frequenza: 2
+Bigramma: white flag con frequenza: 2
+
+20 bigrammi con relative probabilità:
+
+Bigramma: ( ’ s )
+Frequenza Bigramma: 142
+Probabilità condizionata: 0.4139941690962099
+Probabilità congiunta: 0.015154749199573107
+LMI: 4.771768566373737
+
+Bigramma: ( ’ re )
+Frequenza Bigramma: 69
+Probabilità condizionata: 0.20116618075801748
+Probabilità congiunta: 0.0073639274279615795
+LMI: 4.771768566373737
+
+Bigramma: ( going to )
+Frequenza Bigramma: 53
+Probabilità condizionata: 0.8412698412698413
+Probabilità congiunta: 0.005656350053361793
+LMI: 4.873011501053208
+
+Bigramma: ( ’ t )
+Frequenza Bigramma: 50
+Probabilità condizionata: 0.1457725947521866
+Probabilità congiunta: 0.005336179295624334
+LMI: 4.771768566373737
+
+Bigramma: ( I ’ )
+Frequenza Bigramma: 47
+Probabilità condizionata: 0.30718954248366015
+Probabilità congiunta: 0.005016008537886874
+LMI: 3.0689695753587225
+
+Bigramma: ( , and )
+Frequenza Bigramma: 43
+Probabilità condizionata: 0.07719928186714542
+Probabilità congiunta: 0.004589114194236926
+LMI: 2.080712055022717
+
+Bigramma: ( We ’ )
+Frequenza Bigramma: 41
+Probabilità condizionata: 0.47674418604651164
+Probabilità congiunta: 0.004375667022411953
+LMI: 3.7030558162897225
+
+Bigramma: ( Donald Trump )
+Frequenza Bigramma: 32
+Probabilità condizionata: 1.0
+Probabilità congiunta: 0.003415154749199573
+LMI: 7.608870831825394
+
+Bigramma: ( ’ m )
+Frequenza Bigramma: 29
+Probabilità condizionata: 0.08454810495626822
+Probabilità congiunta: 0.0030949839914621133
+LMI: 4.771768566373737
+
+Bigramma: ( we ’ )
+Frequenza Bigramma: 28
+Probabilità condizionata: 0.3076923076923077
+Probabilità congiunta: 0.002988260405549627
+LMI: 3.0713288482326453
+
+Bigramma: ( , I )
+Frequenza Bigramma: 27
+Probabilità condizionata: 0.04847396768402154
+Probabilità congiunta: 0.0028815368196371395
+LMI: 1.569799474677334
+
+Bigramma: ( , the )
+Frequenza Bigramma: 27
+Probabilità condizionata: 0.04847396768402154
+Probabilità congiunta: 0.0028815368196371395
+LMI: 0.7882683280776834
+
+Bigramma: ( , we )
+Frequenza Bigramma: 27
+Probabilità condizionata: 0.04847396768402154
+Probabilità congiunta: 0.0028815368196371395
+LMI: 2.31939267717129
+
+Bigramma: ( re going )
+Frequenza Bigramma: 25
+Probabilità condizionata: 0.36231884057971014
+Probabilità congiunta: 0.0026680896478121665
+LMI: 5.7518851420431885
+
+Bigramma: ( , “ )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.04308797127468582
+Probabilità congiunta: 0.00256136606189968
+LMI: 4.072299815206518
+
+Bigramma: ( ’ ve )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.06997084548104957
+Probabilità congiunta: 0.00256136606189968
+LMI: 4.771768566373737
+
+Bigramma: ( It ’ )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.8888888888888888
+Probabilità congiunta: 0.0025613660618996796
+LMI: 4.601843564931424
+
+Bigramma: ( said , )
+Frequenza Bigramma: 21
+Probabilità condizionata: 0.525
+Probabilità congiunta: 0.0022411953041622202
+LMI: 3.142689143097916
+
+Bigramma: ( of the )
+Frequenza Bigramma: 20
+Probabilità condizionata: 0.15748031496062992
+Probabilità congiunta: 0.0021344717182497333
+LMI: 2.4881577513694433
+
+Bigramma: ( in the )
+Frequenza Bigramma: 19
+Probabilità condizionata: 0.20652173913043478
+Probabilità congiunta: 0.0020277481323372464
+LMI: 2.879279900640819
+
+
+Frasi lunghe da 8 a 15 tokens con probabilità più alta usando un modello markoviano di ordine 1:
+
+We’re going to reverse it. è la frase lunga 8 con probabiltà più alta e con probabilità: 7.35234076444875e-17
+We’re going to have to move. è la frase lunga 9 con probabiltà più alta e con probabilità: 1.7158105778168716e-19
+I’m going to shut down the virus. è la frase lunga 10 con probabiltà più alta e con probabilità: 7.494253459964825e-22
+I’m not going to shut down the country. è la frase lunga 11 con probabiltà più alta e con probabilità: 7.543929304458735e-24
+We’re so much better than we’ve been. è la frase lunga 12 con probabiltà più alta e con probabilità: 1.6877137016895794e-27
+That’s wrong, that’s not who we are. è la frase lunga 13 con probabiltà più alta e con probabilità: 1.5472304560426582e-29
+And you’re the ones who are going to save this country. è la frase lunga 14 con probabiltà più alta e con probabilità: 3.0255644242941118e-34
+We’re going to win for you, Jessica, and your family. è la frase lunga 15 con probabiltà più alta e con probabilità: 1.320167145017701e-34
+
+I 15 nomi propri di persona più frequenti:
+ Donald Trump 32
+ Trump 11
+ Look 9
+ God 4
+ Chloe 4
+ Obamacare 3
+ George Floyd 3
+ Minnesota 2
+ Jessica 2
+ Beau 2
+ Amy 2
+ Breonna Taylor 2
+ Jacob Blake 2
+ Honk 2
+ Kennedy 2
+
+I 15 nomi propri di luogo più frequenti:
+ America 22
+ American 13
+ Scranton 7
+ Americans 6
+ United States 6
+ Delaware 6
+ Iraq 4
+ Florida 4
+ Minnesota 3
+ Pennsylvania 3
+ Claymont 3
+ Trump 2
+ Chief 2
+ Barack 2
+ Gettysburg 2
+
+File di testo: DiscorsoTrump.txt
+
+Le 10 Part-of-Speech più frequenti:
+PoS: . - Frequenza: 737
+PoS: , - Frequenza: 575
+PoS: DT - Frequenza: 261
+PoS: PRP - Frequenza: 207
+PoS: CC - Frequenza: 182
+PoS: TO - Frequenza: 177
+PoS: DT - Frequenza: 171
+PoS: PRP - Frequenza: 164
+PoS: VBP - Frequenza: 137
+PoS: PRP - Frequenza: 134
+
+I 20 sostantivi più frequenti:
+Sostantivo: ’ Frequenza: 75
+Sostantivo: t Frequenza: 71
+Sostantivo: Pennsylvania Frequenza: 38
+Sostantivo: people Frequenza: 28
+Sostantivo: years Frequenza: 27
+Sostantivo: “ Frequenza: 27
+Sostantivo: Biden Frequenza: 25
+Sostantivo: Joe Frequenza: 23
+Sostantivo: way Frequenza: 23
+Sostantivo: s Frequenza: 22
+Sostantivo: Thank Frequenza: 21
+Sostantivo: t Frequenza: 18
+Sostantivo: time Frequenza: 16
+Sostantivo: country Frequenza: 15
+Sostantivo: vote Frequenza: 14
+Sostantivo: president Frequenza: 14
+Sostantivo: state Frequenza: 14
+Sostantivo: guy Frequenza: 14
+Sostantivo: ” Frequenza: 14
+Sostantivo: ” Frequenza: 13
+
+I 20 verbi più frequenti:
+Verbo: ’ Frequenza: 137
+Verbo: ’ Frequenza: 75
+Verbo: is Frequenza: 74
+Verbo: was Frequenza: 63
+Verbo: have Frequenza: 57
+Verbo: going Frequenza: 54
+Verbo: don Frequenza: 48
+Verbo: know Frequenza: 40
+Verbo: said Frequenza: 39
+Verbo: be Frequenza: 37
+Verbo: got Frequenza: 35
+Verbo: say Frequenza: 26
+Verbo: re Frequenza: 26
+Verbo: ’ Frequenza: 24
+Verbo: have Frequenza: 23
+Verbo: s Frequenza: 23
+Verbo: s Frequenza: 22
+Verbo: think Frequenza: 21
+Verbo: had Frequenza: 20
+Verbo: been Frequenza: 19
+
+I 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti:
+Bigramma: ’ s con frequenza: 21
+Bigramma: ’ s con frequenza: 13
+Bigramma: t know con frequenza: 8
+Bigramma: t have con frequenza: 8
+Bigramma: Biden is con frequenza: 7
+Bigramma: ’ s con frequenza: 6
+Bigramma: t want con frequenza: 5
+Bigramma: t think con frequenza: 4
+Bigramma: t say con frequenza: 4
+Bigramma: ll say con frequenza: 3
+Bigramma: t see con frequenza: 3
+Bigramma: guy gets con frequenza: 3
+Bigramma: everybody knows con frequenza: 3
+Bigramma: people are con frequenza: 3
+Bigramma: eyes watching con frequenza: 3
+Bigramma: president broke con frequenza: 2
+Bigramma: Nobody ’ con frequenza: 2
+Bigramma: Biden has con frequenza: 2
+Bigramma: t have con frequenza: 2
+Bigramma: China was con frequenza: 2
+
+I 20 bigrammi composti da un Aggettivo seguito da un sostantivo più frequenti:
+Bigramma: ’ t con frequenza: 52
+Bigramma: ’ t con frequenza: 12
+Bigramma: fake news con frequenza: 7
+Bigramma: ’ s con frequenza: 7
+Bigramma: big tech con frequenza: 5
+Bigramma: last time con frequenza: 4
+Bigramma: first time con frequenza: 4
+Bigramma: big guy con frequenza: 4
+Bigramma: great job con frequenza: 4
+Bigramma: many years con frequenza: 3
+Bigramma: whole thing con frequenza: 3
+Bigramma: last night con frequenza: 3
+Bigramma: other side con frequenza: 3
+Bigramma: little bit con frequenza: 3
+Bigramma: smart people con frequenza: 3
+Bigramma: public relations con frequenza: 3
+Bigramma: more years con frequenza: 2
+Bigramma: religious liberty con frequenza: 2
+Bigramma: ll cry con frequenza: 2
+Bigramma: Next year con frequenza: 2
+
+20 bigrammi con relative probabilità:
+
+Bigramma: ( ’ s )
+Frequenza Bigramma: 149
+Probabilità condizionata: 0.36519607843137253
+Probabilità congiunta: 0.014669685930885103
+LMI: 4.637761384152853
+
+Bigramma: ( ’ t )
+Frequenza Bigramma: 114
+Probabilità condizionata: 0.27941176470588236
+Probabilità congiunta: 0.011223786551146992
+LMI: 4.637761384152853
+
+Bigramma: ( ’ re )
+Frequenza Bigramma: 72
+Probabilità condizionata: 0.17647058823529413
+Probabilità congiunta: 0.007088707295461258
+LMI: 4.637761384152853
+
+Bigramma: ( don ’ )
+Frequenza Bigramma: 52
+Probabilità condizionata: 1.0
+Probabilità congiunta: 0.005119621935610909
+LMI: 4.637761384152853
+
+Bigramma: ( going to )
+Frequenza Bigramma: 46
+Probabilità condizionata: 0.8518518518518519
+Probabilità congiunta: 0.004528896327655804
+LMI: 5.611255629934895
+
+Bigramma: ( , and )
+Frequenza Bigramma: 46
+Probabilità condizionata: 0.08
+Probabilità congiunta: 0.004528896327655804
+LMI: 2.158535896150928
+
+Bigramma: ( , “ )
+Frequenza Bigramma: 39
+Probabilità condizionata: 0.06782608695652174
+Probabilità congiunta: 0.0038397164517081817
+LMI: 3.9363177028251854
+
+Bigramma: ( I ’ )
+Frequenza Bigramma: 33
+Probabilità condizionata: 0.15942028985507245
+Probabilità congiunta: 0.0032489908437530763
+LMI: 1.9886685460119813
+
+Bigramma: ( , they )
+Frequenza Bigramma: 31
+Probabilità condizionata: 0.05391304347826087
+Probabilità congiunta: 0.0030520823077680418
+LMI: 2.58917025048079
+
+Bigramma: ( , but )
+Frequenza Bigramma: 31
+Probabilità condizionata: 0.05391304347826087
+Probabilità congiunta: 0.0030520823077680418
+LMI: 4.052570771321033
+
+Bigramma: ( it . )
+Frequenza Bigramma: 30
+Probabilità condizionata: 0.22388059701492538
+Probabilità congiunta: 0.0029536280397755243
+LMI: 1.625467322180025
+
+Bigramma: ( it ’ )
+Frequenza Bigramma: 30
+Probabilità condizionata: 0.22388059701492538
+Probabilità congiunta: 0.0029536280397755243
+LMI: 2.478562789303599
+
+Bigramma: ( , I )
+Frequenza Bigramma: 29
+Probabilità condizionata: 0.050434782608695654
+Probabilità congiunta: 0.0028551737717830068
+LMI: 1.3072626179208582
+
+Bigramma: ( re going )
+Frequenza Bigramma: 28
+Probabilità condizionata: 0.3888888888888889
+Probabilità congiunta: 0.0027567195037904893
+LMI: 6.192729144576172
+
+Bigramma: ( , we )
+Frequenza Bigramma: 25
+Probabilità condizionata: 0.043478260869565216
+Probabilità congiunta: 0.002461356699812937
+LMI: 2.157268149987726
+
+Bigramma: ( said , )
+Frequenza Bigramma: 25
+Probabilità condizionata: 0.6410256410256411
+Probabilità congiunta: 0.0024613566998129372
+LMI: 3.501222551205088
+
+Bigramma: ( of the )
+Frequenza Bigramma: 25
+Probabilità condizionata: 0.2
+Probabilità congiunta: 0.002461356699812937
+LMI: 2.9603526346671014
+
+Bigramma: ( you . )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.14634146341463414
+Probabilità congiunta: 0.0023629024318204193
+LMI: 1.0120764131323514
+
+Bigramma: ( ’ ll )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.058823529411764705
+Probabilità congiunta: 0.0023629024318204193
+LMI: 4.637761384152853
+
+Bigramma: ( they ’ )
+Frequenza Bigramma: 24
+Probabilità condizionata: 0.26373626373626374
+Probabilità congiunta: 0.0023629024318204198
+LMI: 2.714929244675313
+
+
+Frasi lunghe da 8 a 15 tokens con probabilità più alta usando un modello markoviano di ordine 1:
+
+It’s not going to happen. è la frase lunga 8 con probabiltà più alta e con probabilità: 9.574816401869444e-18
+I think they’re going to vote. è la frase lunga 9 con probabiltà più alta e con probabilità: 6.526127804425213e-19
+It’s going to be up to you. è la frase lunga 10 con probabiltà più alta e con probabilità: 6.425908835074025e-22
+That’s what they’re going to have. è la frase lunga 11 con probabiltà più alta e con probabilità: 3.678261486375904e-23
+I don’t think it’s going to happen. è la frase lunga 12 con probabiltà più alta e con probabilità: 9.100328296104203e-23
+I say, I still don’t want to do it. è la frase lunga 13 con probabiltà più alta e con probabilità: 3.2066078226909675e-28
+I can’t … it’s just one of those things. è la frase lunga 14 con probabiltà più alta e con probabilità: 1.851607237481078e-32
+And if you don’t do that, we’re not watching. è la frase lunga 15 con probabiltà più alta e con probabilità: 1.1068896666916874e-33
+
+I 15 nomi propri di persona più frequenti:
+ Biden 13
+ Joe Biden 10
+ Trump 9
+ Sleepy Joe 7
+ Joe 6
+ Hunter 6
+ Florida 5
+ Kevin 4
+ Nigel 4
+ Lady Gaga 4
+ Look 3
+ Hillary 3
+ Okay 3
+ Brexit 3
+ Mike 3
+
+I 15 nomi propri di luogo più frequenti:
+ Pennsylvania 36
+ China 11
+ American 8
+ Scranton 7
+ Washington 6
+ Nigel 6
+ Florida 4
+ America 3
+ New York Times 3
+ New York 3
+ New Hampshire 3
+ Great 3
+ United States 2
+ Seattle 2
+ Iowa 2

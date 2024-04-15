@@ -1,0 +1,231 @@
+File di testo: DiscorsoBiden.txt
+
+DiscorsoBiden.txt contiene 624 frasi e 9370 tokens.
+
+La lunghezza media delle frasi in termini di token del file: DiscorsoBiden.txt è 15.01602564102564
+
+La lunghezza media delle parole in termini di caratteri del file: DiscorsoBiden.txt è 3.595410885805763
+
+Il vocabolario del file: DiscorsoBiden.txt è grande: 1131 . La Type-Token ratio è: 0.22624524904980997
+
+La distribuzione delle classi di frequenza |V1|, |V5| e |V10| all'aumentare del corpus per porzioni incrementali di 500 token:
+0 - 500
+Distribuzione degli hapax: 0.314
+Distribuzione classe di frequenza 5 0.004
+Distribuzione classe di frequenza 10 0.004
+
+0 - 1000
+Distribuzione degli hapax: 0.233
+Distribuzione classe di frequenza 5 0.005
+Distribuzione classe di frequenza 10 0.001
+
+0 - 1500
+Distribuzione degli hapax: 0.20133333333333334
+Distribuzione classe di frequenza 5 0.007333333333333333
+Distribuzione classe di frequenza 10 0.002
+
+0 - 2000
+Distribuzione degli hapax: 0.1865
+Distribuzione classe di frequenza 5 0.008
+Distribuzione classe di frequenza 10 0.001
+
+0 - 2500
+Distribuzione degli hapax: 0.172
+Distribuzione classe di frequenza 5 0.0076
+Distribuzione classe di frequenza 10 0.002
+
+0 - 3000
+Distribuzione degli hapax: 0.178
+Distribuzione classe di frequenza 5 0.006
+Distribuzione classe di frequenza 10 0.0013333333333333333
+
+0 - 3500
+Distribuzione degli hapax: 0.1662857142857143
+Distribuzione classe di frequenza 5 0.007142857142857143
+Distribuzione classe di frequenza 10 0.0014285714285714286
+
+0 - 4000
+Distribuzione degli hapax: 0.1525
+Distribuzione classe di frequenza 5 0.006
+Distribuzione classe di frequenza 10 0.00175
+
+0 - 4500
+Distribuzione degli hapax: 0.13955555555555554
+Distribuzione classe di frequenza 5 0.005333333333333333
+Distribuzione classe di frequenza 10 0.0024444444444444444
+
+0 - 5000
+Distribuzione degli hapax: 0.1276
+Distribuzione classe di frequenza 5 0.0054
+Distribuzione classe di frequenza 10 0.002
+
+0 - 5500
+Distribuzione degli hapax: 0.12036363636363637
+Distribuzione classe di frequenza 5 0.005818181818181818
+Distribuzione classe di frequenza 10 0.0012727272727272728
+
+0 - 6000
+Distribuzione degli hapax: 0.11333333333333333
+Distribuzione classe di frequenza 5 0.004833333333333334
+Distribuzione classe di frequenza 10 0.0021666666666666666
+
+0 - 6500
+Distribuzione degli hapax: 0.10846153846153846
+Distribuzione classe di frequenza 5 0.0043076923076923075
+Distribuzione classe di frequenza 10 0.0024615384615384616
+
+0 - 7000
+Distribuzione degli hapax: 0.104
+Distribuzione classe di frequenza 5 0.005
+Distribuzione classe di frequenza 10 0.0018571428571428571
+
+0 - 7500
+Distribuzione degli hapax: 0.09586666666666667
+Distribuzione classe di frequenza 5 0.004933333333333333
+Distribuzione classe di frequenza 10 0.0016
+
+0 - 8000
+Distribuzione degli hapax: 0.08775
+Distribuzione classe di frequenza 5 0.005875
+Distribuzione classe di frequenza 10 0.00175
+
+0 - 8500
+Distribuzione degli hapax: 0.08152941176470588
+Distribuzione classe di frequenza 5 0.0058823529411764705
+Distribuzione classe di frequenza 10 0.0016470588235294118
+
+0 - 9000
+Distribuzione degli hapax: 0.07777777777777778
+Distribuzione classe di frequenza 5 0.005888888888888889
+Distribuzione classe di frequenza 10 0.0016666666666666668
+
+0 - 9370
+Distribuzione degli hapax: 0.07705442902881537
+Distribuzione classe di frequenza 5 0.005229455709711847
+Distribuzione classe di frequenza 10 0.0012806830309498398
+
+
+Le frasi del file: DiscorsoBiden.txt hanno in media: 3.2708333333333335 sostantivi e  2.7836538461538463 verbi.
+
+La densità lessicale calcolata secondo il punto 6 è: 0.5893943079542691
+
+File di testo: DiscorsoTrump.txt
+
+DiscorsoTrump.txt contiene 824 frasi e 10157 tokens.
+
+La lunghezza media delle frasi in termini di token del file: DiscorsoTrump.txt è 12.326456310679612
+
+La lunghezza media delle parole in termini di caratteri del file: DiscorsoTrump.txt è 3.3891897213744215
+
+Il vocabolario del file: DiscorsoTrump.txt è grande: 933 . La Type-Token ratio è: 0.1866373274654931
+
+la distribuzione delle classi di frequenza |V1|, |V5| e |V10| all'aumentare del corpus per porzioni incrementali di 500 token:
+0 - 500
+Distribuzione degli hapax: 0.276
+Distribuzione classe di frequenza 5 0.0
+Distribuzione classe di frequenza 10 0.0
+
+0 - 1000
+Distribuzione degli hapax: 0.224
+Distribuzione classe di frequenza 5 0.006
+Distribuzione classe di frequenza 10 0.001
+
+0 - 1500
+Distribuzione degli hapax: 0.18133333333333335
+Distribuzione classe di frequenza 5 0.012666666666666666
+Distribuzione classe di frequenza 10 0.002
+
+0 - 2000
+Distribuzione degli hapax: 0.163
+Distribuzione classe di frequenza 5 0.0095
+Distribuzione classe di frequenza 10 0.0005
+
+0 - 2500
+Distribuzione degli hapax: 0.1488
+Distribuzione classe di frequenza 5 0.0092
+Distribuzione classe di frequenza 10 0.002
+
+0 - 3000
+Distribuzione degli hapax: 0.13333333333333333
+Distribuzione classe di frequenza 5 0.008333333333333333
+Distribuzione classe di frequenza 10 0.002
+
+0 - 3500
+Distribuzione degli hapax: 0.12142857142857143
+Distribuzione classe di frequenza 5 0.006857142857142857
+Distribuzione classe di frequenza 10 0.0034285714285714284
+
+0 - 4000
+Distribuzione degli hapax: 0.112
+Distribuzione classe di frequenza 5 0.007
+Distribuzione classe di frequenza 10 0.003
+
+0 - 4500
+Distribuzione degli hapax: 0.10622222222222222
+Distribuzione classe di frequenza 5 0.006666666666666667
+Distribuzione classe di frequenza 10 0.0017777777777777779
+
+0 - 5000
+Distribuzione degli hapax: 0.0976
+Distribuzione classe di frequenza 5 0.0068
+Distribuzione classe di frequenza 10 0.0018
+
+0 - 5500
+Distribuzione degli hapax: 0.09436363636363636
+Distribuzione classe di frequenza 5 0.006
+Distribuzione classe di frequenza 10 0.0016363636363636363
+
+0 - 6000
+Distribuzione degli hapax: 0.091
+Distribuzione classe di frequenza 5 0.005333333333333333
+Distribuzione classe di frequenza 10 0.0023333333333333335
+
+0 - 6500
+Distribuzione degli hapax: 0.08676923076923077
+Distribuzione classe di frequenza 5 0.005692307692307693
+Distribuzione classe di frequenza 10 0.0009230769230769231
+
+0 - 7000
+Distribuzione degli hapax: 0.08214285714285714
+Distribuzione classe di frequenza 5 0.006571428571428572
+Distribuzione classe di frequenza 10 0.001142857142857143
+
+0 - 7500
+Distribuzione degli hapax: 0.08026666666666667
+Distribuzione classe di frequenza 5 0.006533333333333334
+Distribuzione classe di frequenza 10 0.0012
+
+0 - 8000
+Distribuzione degli hapax: 0.079625
+Distribuzione classe di frequenza 5 0.006
+Distribuzione classe di frequenza 10 0.00125
+
+0 - 8500
+Distribuzione degli hapax: 0.07694117647058824
+Distribuzione classe di frequenza 5 0.005411764705882353
+Distribuzione classe di frequenza 10 0.001411764705882353
+
+0 - 9000
+Distribuzione degli hapax: 0.07511111111111111
+Distribuzione classe di frequenza 5 0.0054444444444444445
+Distribuzione classe di frequenza 10 0.0008888888888888889
+
+0 - 9500
+Distribuzione degli hapax: 0.0731578947368421
+Distribuzione classe di frequenza 5 0.004736842105263158
+Distribuzione classe di frequenza 10 0.0007368421052631579
+
+0 - 10000
+Distribuzione degli hapax: 0.0715
+Distribuzione classe di frequenza 5 0.0046
+Distribuzione classe di frequenza 10 0.0013
+
+0 - 10157
+Distribuzione degli hapax: 0.07177316136654524
+Distribuzione classe di frequenza 5 0.004233533523678251
+Distribuzione classe di frequenza 10 0.0013783597518952446
+
+
+Le frasi del file: DiscorsoTrump.txt hanno in media: 2.3968446601941746 sostantivi e  2.3191747572815533 verbi.
+
+La densità lessicale calcolata secondo il punto 6 è: 0.5791972866026004
